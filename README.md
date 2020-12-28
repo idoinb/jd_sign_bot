@@ -15,5 +15,5 @@
 2. 替换参数值 
 3. 签到并发送通知v
  
-详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/202 0/06/05/jd-sign/)
+详情参考文章:[京东定时签  到-GitHub 实现](https://ruicky.me/202 0/06/05/jd-sign/)
 0
